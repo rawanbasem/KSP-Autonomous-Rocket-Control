@@ -16,7 +16,8 @@ Once set up in KSP:
 The project successfully demonstrated autonomous orbiting of Kerbin. Initial tests used autopilot functions for data extraction, achieving stable orbits at 80 km with zero inclination[cite: 86, 91, 92]. Subsequent development focused on equation-based control using "raw controls" instead of autopilot, which proved challenging but ultimately achieved desired orbits[cite: 7, 96, 101, 102]. The achieved velocity was less than the maximum predicted velocity for the mission (3400 m/s from Delta-V map)[cite: 109, 110, 111].
 
 **Screenshots of successful missions:**
-* [Screenshot: Spaceship leaving Kerbin’s atmosphere (from report Figure 7)](./path/to/your/figure7.png) - *You'll need to upload your individual image files and update these paths.*
+* [Screenshot: Spaceship leaving Kerbin’s atmosphere (from report Figure 7)](./path/to/your/figure7.png) - ![Uploading Screenshot 2025-05-29 at 7.52.27 PM.png…]()
+
 * [Screenshot: Rocket successfully orbiting Kerbin (from report Figure 9)](./path/to/your/figure9.png) - 
 
 
