@@ -17,7 +17,7 @@ The project successfully demonstrated autonomous orbiting of Kerbin. Initial tes
 
 **Screenshots of successful missions:**
 **Screenshots of successful missions:**
-* ![Spaceship leaving Kerbin’s atmosphere (Figure 7)](fig 7.png)
+* ![Spaceship leaving Kerbin’s atmosphere (Figure 7)](fig7.png)
 * ![Rocket successfully orbiting Kerbin (Figure 9)](fig9.png)
 
 
