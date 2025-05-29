@@ -4,7 +4,7 @@ To run the kOS scripts, you will need:
 
 1.  **Kerbal Space Program (KSP):** Ensure you have the game installed.
 2.  **kOS Mod:** Install the `kOS` mod for KSP. Instructions can usually be found on the kOS GitHub page or SpaceDock.
-3.  **Place Scripts:** Copy the `.ks` files (e.g., `orbitPID.ks`, `maneuverFunctions.ks`) into the appropriate `kOS` script directory within your KSP installation (typically `GameData/kOS/Scripts/` or a subdirectory you've configured for kOS programs). The `orbitPID.ks` script expects `maneuverFunctions.ks` to be in a `lib` folder relative to the script's execution path, as indicated by `RUNONCEPATH("0:/lib/maneuverFunctions.ks")`[cite: 148]. You might need to adjust your local kOS setup or folder structure accordingly.
+3.  **Place Scripts:** Copy the `.ks` files (e.g., `orbitPID.ks`, `maneuverFunctions.ks`) into the appropriate `kOS` script directory within your KSP installation (typically `GameData/kOS/Scripts/` or a subdirectory you've configured for kOS programs). The `orbitPID.ks` script expects `maneuverFunctions.ks` to be in a `lib` folder relative to the script's execution path, as indicated by `RUNONCEPATH("0:/lib/maneuverFunctions.ks")`. You might need to adjust your local kOS setup or folder structure accordingly.
 
 Once set up in KSP:
 * Load a rocket in KSP.
@@ -13,7 +13,7 @@ Once set up in KSP:
 
 ## Results
 
-The project successfully demonstrated autonomous orbiting of Kerbin. Initial tests used autopilot functions for data extraction, achieving stable orbits at 80 km with zero inclination[cite: 86, 91, 92]. Subsequent development focused on equation-based control using "raw controls" instead of autopilot, which proved challenging but ultimately achieved desired orbits[cite: 7, 96, 101, 102]. The achieved velocity was less than the maximum predicted velocity for the mission (3400 m/s from Delta-V map)[cite: 109, 110, 111].
+The project successfully demonstrated autonomous orbiting of Kerbin. Initial tests used autopilot functions for data extraction, achieving stable orbits at 80 km with zero inclination. Subsequent development focused on equation-based control using "raw controls" instead of autopilot, which proved challenging but ultimately achieved desired orbits. The achieved velocity was less than the maximum predicted velocity for the mission (3400 m/s from Delta-V map).
 
 **Screenshots of successful missions:**
 **Screenshots of successful missions:**
@@ -24,10 +24,10 @@ The project successfully demonstrated autonomous orbiting of Kerbin. Initial tes
 ## Future Work
 
 Potential future advancements for this project include:
-* Refining the script's functionality and expanding its capabilities to handle more complex tasks, such as planetary landings[cite: 142].
-* Investigating alternative mods or tools to enhance adaptability across diverse platforms and environments[cite: 142].
-* Integrating the software with other simulation environments beyond KSP for extended testing and validation[cite: 143].
-* Extending the script to enable the rocket to transition from a low Kerbin orbit to a different orbit, such as a geostationary orbit, requiring further refinement of algorithms and calculations[cite: 144, 145].
+* Refining the script's functionality and expanding its capabilities to handle more complex tasks, such as planetary landings.
+* Investigating alternative mods or tools to enhance adaptability across diverse platforms and environments.
+* Integrating the software with other simulation environments beyond KSP for extended testing and validation.
+* Extending the script to enable the rocket to transition from a low Kerbin orbit to a different orbit, such as a geostationary orbit, requiring further refinement of algorithms and calculations.
 
 
 
