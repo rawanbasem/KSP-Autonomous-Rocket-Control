@@ -17,7 +17,7 @@ The project successfully demonstrated autonomous orbiting of Kerbin. Initial tes
 
 **Screenshots of successful missions:**
 **Screenshots of successful missions:**
-* ![Spaceship leaving Kerbin’s atmosphere (Figure 7)](fig7.png)
+* ![Spaceship leaving Kerbin’s atmosphere (Figure 7)](fig 7.png)
 * ![Rocket successfully orbiting Kerbin (Figure 9)](fig9.png)
 
 
@@ -30,10 +30,6 @@ Potential future advancements for this project include:
 * Extending the script to enable the rocket to transition from a low Kerbin orbit to a different orbit, such as a geostationary orbit, requiring further refinement of algorithms and calculations[cite: 144, 145].
 
 
-
-## Supervisor
-
-* Melih Türkseven
 
 ## License
 
